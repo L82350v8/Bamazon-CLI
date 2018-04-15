@@ -1,0 +1,27 @@
+{
+  "name": "Bamazon-CLI",
+  "version": "1.0.0",
+  "description": "This Command Line Interface (CLI) application will interact with users to take in orders and deplete stock from a typical e-commerce store front.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L82350v8/Bamazon-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L82350v8/Bamazon-CLI/issues"
+  },
+  "homepage": "https://github.com/L82350v8/Bamazon-CLI#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "easy-table": "^1.1.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "sqlstring": "^2.3.1"
+  }
+}
