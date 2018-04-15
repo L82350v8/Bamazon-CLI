@@ -38,7 +38,7 @@ In the "Supervisor View", the user is presented with two processing options:
 <img src="images/BamazonSupervisor-create-new-dept-pic1.jpg" alt="bamazon-pic8">
 
 Setup Instructions:
-This command line interface (CLI) game uses several JavaScript npm packages to interact with the user.
+This command line interface (CLI) application uses several JavaScript npm packages to interact with the user.
 
 To install these npm packages: Open your Command Prompt terminal and navigate to your cloned project folder. Run the 'npm install' command to add the required npm packages.
 
